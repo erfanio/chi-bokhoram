@@ -141,7 +141,8 @@ export default [
     name: 'Bandari Polo',
     types: [
       'seafood'
-    ]
+    ],
+    recipe: 'http://www.aashpazi.com/polo-bandari'
   },
   {
     name: 'Meygoo Polo',
@@ -165,7 +166,8 @@ export default [
     name: 'Risotto',
     types: [
       'chicken'
-    ]
+    ],
+    recipe: 'http://www.aashpazi.com/risotto'
   },
   {
     name: 'Risotto',
